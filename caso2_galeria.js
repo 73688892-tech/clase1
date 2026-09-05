@@ -1,8 +1,5 @@
 // Yulisa Quispe
 
-// Tarea 1 - Caso 2: lista doblemente enlazada simulando un visor de fotos
-// tipo Instagram, con botones de siguiente y anterior.
-
 class FotoNodo {
   constructor(urlImagen) {
     this.urlImagen = urlImagen;
